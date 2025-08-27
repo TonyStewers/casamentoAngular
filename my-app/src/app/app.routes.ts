@@ -13,4 +13,12 @@ export const routes: Routes = [
     component: Confirmation,
     title: 'Confirmação de Presença',
   },
+  /**{
+    path: '',
+    redirectTo: '/confirmation',
+  },
+  {
+    path: '',
+    redirectTo: '/giftlist',
+  },*/
 ];
